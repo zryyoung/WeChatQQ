@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "EC82FA11-17",
+    "build_number": 17,
+    "build_time": 1743168957396,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": true,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "WechatQQ",
+  "optimization": {
+    "removeOpenCv": true,
+    "unusedResources": false
+  },
+  "packageName": "org.voice.replace",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
