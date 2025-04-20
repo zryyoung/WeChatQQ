@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "9FF39EBA-27",
+    "build_number": 27,
+    "build_time": 1745115432396,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": true,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "Powered by Github zryyoung",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "WechatQQ",
+  "optimization": {
+    "removeOpenCv": true,
+    "unusedResources": false
+  },
+  "packageName": "org.voice.replace",
+  "scripts": {},
+  "versionCode": 2,
+  "versionName": "2.0.0"
+}
